@@ -3,7 +3,7 @@ This project seeks to answer this primary inquiry, as well as classify homes int
 
 **To access the jupyter notebook file for the project, either
 a.) click on the link at the end of this README File
-b.) Proceed to "Housing Data Project Link" and click on the link posted there. 
+b.) Proceed to "Project Link" and click on the link posted there. 
 
 This will bring you to the nbviewer.org site, which will provide a nice display of the jupyter notebook file. 
 
