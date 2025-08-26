@@ -7,4 +7,4 @@ b.) Proceed to "Project Link" and click on the link posted there.
 
 This will bring you to the nbviewer.org site, which will provide a nice display of the jupyter notebook file. 
 
-Project Link: [https://nbviewer.org/github/ClaroBaro/U.S.-Housing-Market-Analysis/blob/main/Housing%20Data%20Project%20%283%29.ipynb](url)
+Project Link: https://nbviewer.org/github/ClaroBaro/U.S.-Housing-Market-Analysis/blob/main/Housing%20Data%20Project%20%283%29.ipynb
